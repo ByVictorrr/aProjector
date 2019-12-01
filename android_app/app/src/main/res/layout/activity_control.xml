@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.danyal.bluetoothhc05.ledControl">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="aProjector"
+        android:textSize="18dp"
+        ></TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <Button
+            android:id="@+id/reset_btn"
+            android:layout_width="398dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@android:color/holo_blue_light"
+            android:text="Reset Mode"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="148dp"
+            tools:layout_editor_absoluteY="88dp" />
+
+        <Button
+            android:id="@+id/normal_btn"
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@android:color/holo_blue_light"
+            android:textSize="18dp"
+            android:text="Normal Mode"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="192dp"
+            tools:layout_editor_absoluteY="64dp" />
+
+        <Button
+            android:text="disconnect"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/disconnect_btn"
+            android:layout_width="411dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@android:color/holo_blue_light"
+
+            ></Button>
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
