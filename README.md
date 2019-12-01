@@ -62,6 +62,9 @@ A concave lens is exactly the opposite with the outer surfaces curving inward, s
 
 Concave lenses are used in things like TV projectors to make light rays spread out into the distance. In a flashlight, it's easier to do this job with a mirror, which usually weighs much less than a lens and is cheaper to manufacture as well.
 
+## Schematic:
+![schematic](https://github.com/ByVictorrr/aProjector/blob/master/images/schematic.png)
+
 ## Hardware:
 
 [MSP432p401R](https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I)
