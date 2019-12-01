@@ -24,8 +24,8 @@ Machining, CAD, and assembly done by [@dvnielwvng](https://twitter.com/dvnielwvn
 ![front
 view](https://github.com/ByVictorrr/aProjector/blob/master/images/front_view.jpg)
 
-![side
-view](https://github.com/ByVictorrr/aProjector/blob/master/images/side_view.jpg)
+![top
+view](https://github.com/ByVictorrr/aProjector/blob/master/images/top_view.jpg)
 
 
 
